@@ -1,0 +1,4 @@
+Instructor's name: John Doe, Email: johndoe@emp.com, Employee ID: 123000EMP
+Student's name: Jason Doe, Email: jasondoe@stu.com, Student ID: 123000STD, Grade: , Exam Status: Not taken
+Instructor's name: James Lee, Email: jameslee@emp.com, Employee ID: 456000EMP
+Student's name: Emily Liu, Email: emilyliu@stu.com, Student ID: 456000STD, Grade: A, Exam Status: Taken
