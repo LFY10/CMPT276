@@ -1,0 +1,21 @@
+1. functional testing
+    1. MergeSort passes all 10 cases
+       coverage is 100%
+    2. QuickSort passes all 10 cases
+       coverage is 100%
+
+2. Structural testing
+    1. MergeSort
+        -test it's sorting ability
+        -test it's corner case value
+        -test in special situation
+        coverage is 100%
+    2. QuickSort
+        -test it's sorting ability
+        -test it's corner case value
+        -test in special situation
+        coverage is 100%
+
+3. result
+      MergeSort branch's coverage is 100%
+      QuickSort branch's coverage is 100%
